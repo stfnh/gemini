@@ -35,6 +35,7 @@ Gemini currently includes three color themes:
 * `gemini` (default)
 * `mit`
 * `labsix`
+* `ntnu` (based on [NTNU color profile](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Farger+i+grafisk+profil))
 
 The alternative themes are intended to be inspiration for you to make your own
 color theme. You're highly recommended to make your own color theme (it's
